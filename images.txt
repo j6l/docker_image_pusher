@@ -5,3 +5,4 @@ nginx
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
 --platform=linux/amd64 postgres:16.8-alpine3.20
+--platform=linux/amd64 tomcat:9.0.102-jdk8
