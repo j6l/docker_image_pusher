@@ -11,4 +11,4 @@
 --platform=linux/amd64 redis:6.2.10-alpine3.17
 --platform=linux/amd64 1panel/openresty:1.21.4.3-3-3-focal
 --platform=linux/amd64 minio/minio:RELEASE.2025-02-18T16-25-55Z
-
+--platform=linux/amd64 cloudflare/cloudflared:2025.2.1
